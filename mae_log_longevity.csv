@@ -1,0 +1,4 @@
+model_name,hiveid,mae
+ANN,50,2.83921
+CNN,50,2.88162
+LSTM,50,2.80692
